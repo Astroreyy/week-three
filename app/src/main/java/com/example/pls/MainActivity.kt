@@ -116,12 +116,4 @@ fun TheUI(){
         }
 
     }
-
-
-@Composable
-@Preview(showBackground = true)
-fun DefaultPreview() {
-    PlsTheme {
-
-    }
-}}
+}
